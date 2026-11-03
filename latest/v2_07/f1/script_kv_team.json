@@ -1,0 +1,46 @@
+	Строка  152747:       "Name": "hx.Team$$lah",
+	Строка  152753:       "Name": "hx.Team$$lai",
+	Строка  152759:       "Name": "hx.Team$$laj",
+	Строка  152765:       "Name": "hx.Team$$lak",
+	Строка  175176:       "Signature": "void Chillow_StandChillow_Player_Ragdoll_RagdollPool___ctor (Chillow_StandChillow_Player_Ragdoll_RagdollPool_o* __this, uint8_t team, int32_t poolSize, bap_o* options, const MethodInfo* method);",
+	Строка  242088:       "Signature": "void Chillow_StandChillow_Game_FinalWinTeam___ctor (Chillow_StandChillow_Game_FinalWinTeam_o* __this, bool isDraw, bool isGiveUp, uint8_t team, const MethodInfo* method);",
+	Строка  242094:       "Signature": "void Chillow_StandChillow_Game_FinalWinTeam___ctor (Chillow_StandChillow_Game_FinalWinTeam_o* __this, bool isDraw, bool isGiveUp, uint8_t team, const MethodInfo* method);",
+	Строка  246636:       "Signature": "void Chillow_StandChillow_Game_WinTeam___ctor (Chillow_StandChillow_Game_WinTeam_o* __this, uint8_t team, edq_o* mvpPlayer, const MethodInfo* method);",
+	Строка  246642:       "Signature": "void Chillow_StandChillow_Game_WinTeam___ctor (Chillow_StandChillow_Game_WinTeam_o* __this, uint8_t team, edq_o* mvpPlayer, const MethodInfo* method);",
+	Строка  261456:       "Signature": "void ctz__WinTeam (ctz_o* __this, fiy_o* record, uint8_t team, edq_o* mvpActor, const MethodInfo* method);",
+	Строка  263064:       "Signature": "void cur__WinTeam (cur_o* __this, fiy_o* record, uint8_t team, edq_o* mvpActor, uint8_t mvp, const MethodInfo* method);",
+	Строка  269790:       "Signature": "void Chillow_StandChillow_Game_Actions_TeamActionPopupMenu__Show (Chillow_StandChillow_Game_Actions_TeamActionPopupMenu_o* __this, uint8_t team, System_Collections_Generic_IEnumerable_edq__o* actors, UnityEngine_Vector2_o position, bool rightSide, const MethodInfo* method);",
+	Строка  269970:       "Signature": "void Chillow_StandChillow_Events_FreeForAllModificator_Scripts_FreeForAllModificatorGameController_cyk__Invoke (Chillow_StandChillow_Events_FreeForAllModificator_Scripts_FreeForAllModificatorGameController_cyk_o* __this, edq_o* actor, uint8_t team, cnn_o* spawnPoint, float untouchableDuration, const MethodInfo* method);",
+	Строка  269976:       "Signature": "System_IAsyncResult_o* Chillow_StandChillow_Events_FreeForAllModificator_Scripts_FreeForAllModificatorGameController_cyk__BeginInvoke (Chillow_StandChillow_Events_FreeForAllModificator_Scripts_FreeForAllModificatorGameController_cyk_o* __this, edq_o* actor, uint8_t team, cnn_o* spawnPoint, float untouchableDuration, System_AsyncCallback_o* callback, Il2CppObject* object, const MethodInfo* method);",
+	Строка 2072005:       "Value": ", using team difficulty"
+	Строка 2072417:       "Value": "Auto-balance skipped: Team {0} would exceed max size after move"
+	Строка 2073477:       "Value": "Matches/Team"
+	Строка 2090369:       "Value": "BotCreator::CreateOneAsync - Team {0} limit size exceeded"
+	Строка 2090541:       "Value": "BotDefuseGameController::SaveWeapons - This is first round after team swap, skipping"
+	Строка 2103861:       "Value": "No free ragdoll, please use correct max team size"
+	Строка 2107165:       "Value": "Invalid argument, can\u0027t change team to None"
+	Строка 2108297:       "Value": "Can\u0027t get Player for None team"
+	Строка 2112485:       "Value": "Invalid match Ct Team not found"
+	Строка 2112525:       "Value": "Invalid match Tr Team not found"
+	Строка 2117081:       "Value": "Invalid team"
+	Строка 2117121:       "Value": "Invalid team state!"
+	Строка 2117161:       "Value": "Invalid team {0}"
+	Строка 2117749:       "Value": "Selected team is {0}"
+	Строка 2136777:       "Value": "Failed to get unused bot profile for team {0}, generating extra one"
+	Строка 2136821:       "Value": "Failed to get win team on round ending"
+	Строка 2143393:       "Value": "Unsupported team {0}"
+	Строка 2146029:       "Value": "team"
+	Строка 2157077:       "Value": "Pool for team {0} is not registered"
+	Строка 2159993:       "Value": "GameController::ToSpectateMode - Team is None"
+	Строка 2168145:       "Value": "Local player must be in a team to save the match (team {0})"
+	Строка 2176097:       "Value": "Team"
+	Строка 2176141:       "Value": "Team changed to {0}"
+	Строка 2176185:       "Value": "Team is not set"
+	Строка 2176229:       "Value": "Team select hud loaded"
+	Строка 2176273:       "Value": "Team {0} is not registered"
+	Строка 2176317:       "Value": "Team {0} not supported!"
+	Строка 2176361:       "Value": "Team.None is not supported"
+	Строка 2176405:       "Value": "Team/AutoSelect"
+	Строка 2176449:       "Value": "Team/CounterTerrorists"
+	Строка 2176493:       "Value": "Team/TeamIsFull"
+	Строка 2176537:       "Value": "Team/Terrorists"
